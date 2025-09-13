@@ -1,4 +1,4 @@
-This Open Source License Agreement (the "Agreement") is a legal agreement between you (the "Licensee") and Shlok Mishra (the "Licensor") for the use, modification, and distribution of the software code and related materials provided in the GitHub repository titled [Your GitHub Repository Name] (the "Repository").
+This Open Source License Agreement (the "Agreement") is a legal agreement between you (the "Licensee") and Naman Chhabra (the "Licensor") for the use, modification, and distribution of the software code and related materials provided in the GitHub repository titled [Your GitHub Repository Name] (the "Repository").
 
 By accessing, downloading, copying, or using the Repository or any part thereof, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to these terms and conditions, you are prohibited from using or accessing the Repository.
 
